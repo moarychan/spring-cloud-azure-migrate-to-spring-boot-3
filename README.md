@@ -197,8 +197,6 @@ Upgrade to Spring Boot 3.0.0 and Spring Cloud Azure 6.0.0, we expect some known 
 
    The file *SPRING_BOOT_3_UPGRADE_REPORT.html* was generated in the project root path.
 
-   ![boot-2.7-3.0-upgrade-report.png](docs/boot-2.7-3.0-upgrade-report.png)
-
    After applying the recipe, a log of `SBM: applied recipe 'boot-2.7-3.0-upgrade-report'` was committed locally.
 
 ### Run and verify with Spring Boot 3
